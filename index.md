@@ -3,17 +3,33 @@ title: Home
 layout: home
 nav_order: 1
 
-footer_content: Theme by <a href="https://just-the-docs.com">Just the Docs</a>, licensed under the <a href=https://en.wikipedia.org/wiki/MIT_License">MIT License</a>.
+---
+
+# Ouro
+
+> For English version [see below](#english-version).
+
+Portugal do século XV.
+
+## Temas
+
+- Colonialismo
+- Ganância
+- Fantasia velada
+
+
+---
+#### English Version
 
 ---
 
-# Setting name
-
-Summarise and give links for understanding the game.
+15th Century Portugal.
 
 ## Themes
 
-Define themes.
+- Colonialism
+- Greedy
+- Veiled fantasy
 
 ## Timeline
 
