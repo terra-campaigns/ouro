@@ -1,6 +1,15 @@
-# Terra Campaigns Template
+# Ouro
 
-> ***Including template modular system***
+## Sandbox and inspiration
+
+- General: Trophy Loom
+- Algarve:
+	- Nightmares Underneath 
+	- Histórica Arcanum
+- Norte cristão: Wolves of God
+- Empresa de arqueologia: Best Left Buried.
+
+# Website render
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
@@ -12,12 +21,6 @@ More specifically, the created site:
 
 - uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
 - uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
-
-After completing the creation of your new site on GitHub, update it as needed:
-
-## Replace the content of the template pages
-
-Update the following files to your own content
 
 ## Changing the version of the theme and/or Jekyll
 
@@ -87,53 +90,16 @@ Assuming [Jekyll] and [Bundler] are installed on your computer:
 
 and then browse to http://localhost:4000.
 
-## Customization
-
-You're free to customize sites that you create with this template, however you like!
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-## Contribute
+# Contribute
 
 Feel free to suggest edits on any files on this repo through Pull Requests.
 Merged Pull Requests automatically builds the website.
 
-## Licensing and Attribution
+# Licensing and Attribution
 
 This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you "make a template"). While it's not necessary, we'd love to hear from you if you do use this template, and how we can improve it for future use!
 
 The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party [starter workflows]. A copy of their MIT License is available in [actions/starter-workflows].
-
-
-
-
-**Terra Odd** is a hack of Cairn / Into the Odd that aims to allow games to be played in different genres and aesthetics.
-The first hack is for [Degenesis](https://terra-campaigns.github.io/degenesis/).
-
-The main difference is the addition of a modular [Ruin mechanic](core-rules.md#Ruin), based on [Oddular Mechanics](https://www.bastionland.com/2016/04/oddular-mechanics.html?m=1).
-[Backgrounds](../template/_includes/srd_modules/hp.md#Backgrounds) and [Bonds](../template/_includes/srd_modules/hp.md#Bonds), alongside Ruin, are thematically specific for each game.
-Inventory slots are treated as Burdens, with no mechanical change.
-
-This repo also contains my GM materials for planning & running sessions.
-It is not always organised.
-
-This webpage and the repository are a fork from [Yochai Gal](https://newschoolrevolution.com).'s [Cairn](https://cairnrpg.com/).
-Cairn is based on [Knave](https://www.drivethrurpg.com/product/250888/Knave) by Ben Milton and [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) by Chris McDowall. 
-
----
-
-
-### Versioning
-
-Given a version number MAJOR.MINOR.DEV, increment the:
-
-+ MAJOR version when the new version is incompatible with previous versions (exception for 1.x)
-+ MINOR version when a version with added features is to be used in a game session
-+ DEV version when developments in-between sessions are published, or only fixes are applied.
-
-
-
-
 
 ----
 
