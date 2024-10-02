@@ -4,8 +4,6 @@ title: Terra Mater
 parent: Anthology
 nav_order: 20
 
-footer_content: Image by <a href="https://www.flickr.com/photos/66351465@N00/">Chris Tolworthy</a>, licensed under <a href="https://creativecommons.org/licenses/by/2.0/"> CC BY 2.0 </a>
-
 timestamp: 1400?
 region: Evora
 
@@ -14,8 +12,6 @@ region: Evora
 # Terra Mater
 
 > {{ page.region}}, {{ page.timestamp }} 
-
-![](https://live.staticflickr.com/7388/13888113630_ea320a02dc_z.jpg)
 
 ![](https://i.imgur.com/wUgVHZX.png)
 
