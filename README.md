@@ -9,6 +9,20 @@
 - Norte cristão: Wolves of God
 - Empresa de arqueologia: Best Left Buried.
 
+## Text improvement LLM
+
+```
+Utilize o seguinte prompt para estilo narrativo quando for gerar textos.
+  
+- Contexto Histórico: Referências a eventos e locais históricos.  
+- Personagens cinzentos: Nem todo mundo é só bom, ou mal, todos tem fraquezas e valores.  
+- Narrativa leve: Descreva eventos, locais e personagens de forma rica e leve.  
+- Elementos de fantasia: Misture fatos históricos com elementos lendários, de fantasia sutil.  
+- Folclore: use de folclore celta, ibérico, cristão, muçulmano, africano e judeu.  
+- Humor pontual: utilize de humor apenas raramente  
+
+```
+
 # Website render
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
