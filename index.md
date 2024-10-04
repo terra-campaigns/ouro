@@ -52,9 +52,24 @@ And, above all, the illustrious rulers of the Portuguese crown watched with ambi
 
 # Timeline
 
+List works:
+
 <!-- QueryToSerialize: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "ouro/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
 <!-- SerializedQuery: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "ouro/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
 - Evora, 1400?: [Mascara](https://terra-campaigns.github.io/ouro/campaigns/Anthology/Mascara) (Anthology)
 - Evora, 1400?: [RiblerimIP1](https://terra-campaigns.github.io/ouro/campaigns/Anthology/RiblerimIP1) (Anthology)
 - Evora, 1400?: [Terra Mater](https://terra-campaigns.github.io/ouro/campaigns/Anthology/terra-mater) (Anthology)
+<!-- SerializedQuery END -->
+
+
+Table does not:
+
+<!-- QueryToSerialize: TABLE without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "ouro/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
+<!-- SerializedQuery: TABLE without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "ouro/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
+
+| region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Evora, 1400?: [Mascara](https://terra-campaigns.github.io/ouro/campaigns/Anthology/Mascara) (Anthology)                                           |
+| Evora, 1400?: [RiblerimIP1](https://terra-campaigns.github.io/ouro/campaigns/Anthology/RiblerimIP1) (Anthology)                                   |
+| Evora, 1400?: [Terra Mater](https://terra-campaigns.github.io/ouro/campaigns/Anthology/terra-mater) (Anthology)                                   |
 <!-- SerializedQuery END -->
