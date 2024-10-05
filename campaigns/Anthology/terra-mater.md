@@ -13,6 +13,8 @@ region: Coimbra
 
 > {{ page.region}}, {{ page.timestamp }} 
 
+> For English version [see below](#english-version).
+
 A pedreira abria-se diante deles como uma ferida antiga na terra, suas bordas ásperas desafiando o olhar dos aventureiros. **Obeha**, o pequeno camponês, encolhia-se diante da vastidão da abertura. Ele era um homem simples, de voz suave e corpo arredondado, mas sua mente estava fixa em um único objetivo: ganhar o respeito do castelão de Coimbra. A peste o havia expulsado de sua fazenda, e a pedreira, cercada de lendas e promessas de riquezas incalculáveis, parecia ser a resposta para todos os seus problemas.
 
 **Kel**, por sua vez, observava o desfiladeiro com um brilho calculista nos olhos. Sempre elegante, suas roupas de cortes perfeitos escondiam a ambição desenfreada que pulsava em seu peito. Ele acreditava ter sangue real e que o poder era seu direito. A pedreira, para ele, era mais uma peça em seu jogo de conquista, um trampolim para sua ascensão.
@@ -41,8 +43,38 @@ Lá, envolto em um brilho rubro sobrenatural, estava o **rubi colossal**. A luz 
 E assim, cada um deles seguiu seu caminho — uns presos para sempre, outros carregando sua ganância ou fé de volta à superfície. Mas a **pedreira** continuava ali, viva e vigilante, esperando os próximos que viriam profanar seus segredos.
 
 ---
+#### English Version
+
+---
+
+The quarry opened before them like an ancient wound in the earth, its jagged edges challenging the gaze of the adventurers. **Obeha**, the small, rotund peasant, cowered before the vastness of the opening. He was a simple man, with a soft voice and a round body, but his mind was fixed on a single goal: to earn the respect of the castellan of Coimbra. The plague had driven him from his farm, and the quarry, surrounded by legends and promises of untold riches, seemed to be the answer to all his problems.
+
+**Kel**, on the other hand, observed the chasm with a calculating gleam in his eyes. Always elegant, his perfectly tailored clothes concealed the unbridled ambition that pulsed within his chest. He believed he had royal blood, and that power was his birthright. The quarry, to him, was just another piece in his game of conquest, a stepping stone to his ascension.
+
+**Mahera**, the moneylender, was there for a simpler reason: money. His father's debts haunted him, and the granite walls promised salvation in the form of rubies. As for **Elisio**, the miner, he moved with an almost sacred reverence. To him, the depths of the earth were not just a source of riches, but a sanctuary of faith. He believed God had guided his steps to this place.
+
+The four descended the jagged slope of the quarry, vertigo and fear enveloping them, but greed and ambition proved stronger than any trepidation. Upon reaching a narrow tunnel, the tension grew. **Kel** and **Obeha** began to argue over who should go first. Something felt off, as though the very air between them had grown heavier. The two men nearly came to blows, until **Kel**, with his characteristic arrogance, took the lead.
+
+Deep within the quarry, the group stumbled upon something unexpected: **stone children**, small granite figures, striking the cave walls with their hammers. The dry, rhythmic sound echoed through the passages, accompanied by short, sharp cries whenever one of them broke or was injured. Each hammer blow made the earth tremble, as if the quarry's very heart was pulsing along with them.
+
+For a brief moment, the adventurers hesitated. The stone children were not conventional enemies; they were trapped in an endless cycle of labor, condemned to dig without rest. Instead of confronting them, the group, with some effort, managed to convince them to play. The children led them deeper still, to the **heart of the quarry**.
+
+There, bathed in a supernatural crimson glow, was the **colossal ruby**. The light emanating from the stone seemed to pulse with its own life. **Obeha** was the first to succumb to temptation. He approached it, hand trembling, eyes fixed on the ruby. In his mind, he imagined himself finally gaining the respect he so desperately craved. The moment he touched the stone, a chill ran through his body, and the transformation began. His fingers stiffened, his skin turned to granite. Now, he was part of the quarry, a **living statue**, another guardian condemned by the quarry's curse.
+
+**Mahera**, observing the scene with cold detachment, decided that the giant ruby was not worth the risk. While the stone children played tirelessly around him, he began collecting **small fragments of rubies** that had fallen from the veins in the walls. His only thought was the fortune waiting for him on the surface. He ignored the subtle tremors running through the ground and the whispers that seemed to echo from the depths. Satisfied with the weight of the rubies in his pockets, he began the slow climb back up, oblivious to the signs that something far greater and more dangerous was coming.
+
+**Kel**, however, saw in the stone children an opportunity. An army of small granite beings, molded to his will, was all he needed to seize the power he craved. He believed he could control them, shape them as tools for his own ends. But time is a curious thing in the depths of the earth. **Kel** never realized his dream. He remained there, forever **playing with the stone children**, his mind trapped in an illusion of glory that would never come. The respect of the castellan of Coimbra, the power he sought, all dissolved in the shadows of the quarry.
+
+**Elisio**, the devout miner, looked upon it all with unwavering faith. He believed the events in the quarry were orchestrated by God. To him, the stone children, the ruby, and even **Obeha's** transformation were divine signs, proof that he should present to the castellan of Coimbra as a blessed offering. In his mind, this would bring blessings to everyone. He believed the castellan would see God's truth reflected in the stones, and that he would be the bearer of this sacred revelation. Elisio was treated as a jester, a storyteller, when he returned to Coimbra.
+
+And so, each of them followed their own path — some trapped forever, others carrying their greed or faith back to the surface. But the **quarry** remained, alive and watchful, waiting for the next to come and profane its secrets.
+
+---
 #### Connected to
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "ouro/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != "index" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "ouro/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != "index" SORT file.folder DESC -->
+- [Terra Mater](https://terra-campaigns.github.io/ouro/campaigns/Anthology/terra-mater), from campaigns/Anthology
+<!-- SerializedQuery END -->
 
 ---
