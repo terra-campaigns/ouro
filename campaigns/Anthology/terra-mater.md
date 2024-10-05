@@ -15,7 +15,7 @@ region: Coimbra
 
 > For English version [see below](#english-version).
 
-A pedreira abria-se diante deles como uma ferida antiga na terra, suas bordas ásperas desafiando o olhar dos aventureiros. **Obeha**, o pequeno camponês, encolhia-se diante da vastidão da abertura. Ele era um homem simples, de voz suave e corpo arredondado, mas sua mente estava fixa em um único objetivo: ganhar o respeito do castelão de Coimbra. A peste o havia expulsado de sua fazenda, e a pedreira, cercada de lendas e promessas de riquezas incalculáveis, parecia ser a resposta para todos os seus problemas.
+A pedreira abria-se diante deles como uma ferida antiga na terra, suas bordas ásperas desafiando o olhar dos aventureiros. **Obeha**, o pequeno camponês, encolhia-se diante da vastidão da abertura. Ele era um homem simples, de voz suave e corpo arredondado, mas sua mente estava fixa em um único objetivo: ganhar o respeito do castelão de [Coimbra](../../locations/Coimbra.md). A peste o havia expulsado de sua fazenda, e a pedreira, cercada de lendas e promessas de riquezas incalculáveis, parecia ser a resposta para todos os seus problemas.
 
 **Kel**, por sua vez, observava o desfiladeiro com um brilho calculista nos olhos. Sempre elegante, suas roupas de cortes perfeitos escondiam a ambição desenfreada que pulsava em seu peito. Ele acreditava ter sangue real e que o poder era seu direito. A pedreira, para ele, era mais uma peça em seu jogo de conquista, um trampolim para sua ascensão.
 
@@ -74,6 +74,7 @@ And so, each of them followed their own path — some trapped forever, others ca
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "ouro/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != "index" SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "ouro/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != "index" SORT file.folder DESC -->
+- [Coimbra](https://terra-campaigns.github.io/ouro/locations/Coimbra), from locations
 - [Terra Mater](https://terra-campaigns.github.io/ouro/campaigns/Anthology/terra-mater), from campaigns/Anthology
 <!-- SerializedQuery END -->
 
