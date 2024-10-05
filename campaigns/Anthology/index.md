@@ -8,6 +8,6 @@ footer_content:
 
 ---
 
-# Anthology
+# Antologia | Anthology
 
 

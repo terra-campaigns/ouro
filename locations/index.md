@@ -6,4 +6,4 @@ nav_order: 70
 
 ---
 
-# Locations
+# Locais | Locations
