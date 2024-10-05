@@ -7,21 +7,25 @@ footer_content: Image by <a href="https://www.flickr.com/photos/66351465@N00/">C
 
 ---
 
-# Ouro
+# Ouro | Gold
 
 ![](https://live.staticflickr.com/7388/13888113630_ea320a02dc_z.jpg)
 
 > For English version [see below](#english-version).
 
-No alvorecer da Era de Ouro do império português, nas primeiras décadas do século XV, estranhas incursões sobrenaturais começaram a despontar nas profundezas da terra lusitana. O povo murmurava em igrejas e praças sobre esses eventos, que ninguém compreendia por completo.
+No alvorecer da Era de Ouro do reino de Portugal e dos Algarves, no século XV, ...
 
-Os cristãos logo apontaram o dedo ao Satanás, evocando imagens de inferno e perdição. Já os judeus, com suas tradições místicas, acreditavam se tratar de anjos caídos, castigados e exilados. Os muçulmanos, conhecedores de antigas histórias, falavam de espíritos malévolos, djinns perdidos entre mundos. E havia ainda quem dissesse que essas aparições pertenciam ao reino feérico, seres encantados que caminham entre o humano e o divino.
+Acho que em algum ponto aqui você precisa dizer que era um reino em que conviviam sob relativa paz, mulçumanos/ mouros, judeus e cristãos e que, nessa época, chegavam os primeiros carregamentos e "pretos  da Etiópia", negros do "Congo" e da "Angola" escravizados.
+
+...estranhas incursões sobrenaturais começaram a despontar nas profundezas da terra lusitana. O povo murmurava em igrejas e praças sobre esses eventos, que ninguém compreendia por completo.
+
+Os cristãos logo apontaram o dedo ao Satanás, evocando imagens de inferno e perdição. Já os judeus acreditavam se tratar de anjos caídos, castigados e exilados. Os muçulmanos falavam de espíritos malévolos, djinns perdidos entre mundos. E havia ainda quem dissesse que essas aparições pertenciam ao reino feérico, seres encantados que caminham entre mundos.
 
 Uma coisa, no entanto, todos sabiam: onde quer que essas incursões ocorressem, artefatos antigos e riquezas há muito perdidas ressurgem das sombras. Tesouros esquecidos continham conhecimento e poderes ancestrais, ao alcance dos audaciosos que ousavam se aproximar.
 
 Acadêmicos de todas as ciências e filosofias, fascinados pelo mistério, desejavam estudar esses achados, sedentos por conhecimento. Os religiosos, por sua vez, estavam divididos. Alguns temiam o toque profano dessas relíquias, suspeitando de suas origens impuras, enquanto outros viam nelas sinais de provação divina. Cavaleiros, com seus corações cheios de bravura — ou de ganância — armavam-se para enfrentar as criaturas que guardam tais riquezas, em busca de glória e fortuna. Os mercadores, sempre atentos às oportunidades, viam nessas relíquias um mercado novo e lucrativo, ansiosos para negociar com o misterioso e o desconhecido.
 
-E, acima de tudo, os ilustres governantes da coroa portuguesa observavam com olhos ambiciosos. Se as incursões eram sinais de algo maior, algo ligado às terras que seus navegadores começavam a desbravar além-mar, então caberia a eles assegurar que cada tesouro e segredo emergido do solo luso fosse aproveitado para o engrandecimento do império. Afinal, os ventos dos Descobrimentos estavam soprando, e qualquer vantagem, terrena ou sobrenatural, seria crucial para o destino de Portugal.
+E, acima de tudo, os ilustres governantes do trono português observavam com olhos ambiciosos. Se as incursões eram sinais de algo maior, algo ligado às terras que seus navegadores começavam a desbravar além-mar, então caberia a eles assegurar que cada tesouro e segredo emergido do solo luso fosse aproveitado para o engrandecimento do império. Afinal, os ventos dos Descobrimentos estavam soprando, e qualquer vantagem, terrena ou sobrenatural, seria crucial para o destino de Portugal.
 
 #### Temas
 
