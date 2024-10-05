@@ -60,9 +60,9 @@ List works:
 
 <!-- QueryToSerialize: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "ouro/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
 <!-- SerializedQuery: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "ouro/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
-- Evora, 1400?: [Mascara](https://terra-campaigns.github.io/ouro/campaigns/Anthology/Mascara) (Anthology)
-- Evora, 1400?: [RiblerimIP1](https://terra-campaigns.github.io/ouro/campaigns/Anthology/RiblerimIP1) (Anthology)
-- Evora, 1400?: [Terra Mater](https://terra-campaigns.github.io/ouro/campaigns/Anthology/terra-mater) (Anthology)
+- Coimbra, 1418: [Terra Mater](https://terra-campaigns.github.io/ouro/campaigns/Anthology/terra-mater) (Anthology)
+- Evora, 1420: [Mascara](https://terra-campaigns.github.io/ouro/campaigns/Anthology/Mascara) (Anthology)
+- Evora, 1420: [RiblerimIP1](https://terra-campaigns.github.io/ouro/campaigns/Anthology/RiblerimIP1) (Anthology)
 <!-- SerializedQuery END -->
 
 
@@ -73,7 +73,7 @@ Table does not:
 
 | region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Evora, 1400?: [Mascara](https://terra-campaigns.github.io/ouro/campaigns/Anthology/Mascara) (Anthology)                                           |
-| Evora, 1400?: [RiblerimIP1](https://terra-campaigns.github.io/ouro/campaigns/Anthology/RiblerimIP1) (Anthology)                                   |
-| Evora, 1400?: [Terra Mater](https://terra-campaigns.github.io/ouro/campaigns/Anthology/terra-mater) (Anthology)                                   |
+| Coimbra, 1418: [Terra Mater](https://terra-campaigns.github.io/ouro/campaigns/Anthology/terra-mater) (Anthology)                                  |
+| Evora, 1420: [Mascara](https://terra-campaigns.github.io/ouro/campaigns/Anthology/Mascara) (Anthology)                                            |
+| Evora, 1420: [RiblerimIP1](https://terra-campaigns.github.io/ouro/campaigns/Anthology/RiblerimIP1) (Anthology)                                    |
 <!-- SerializedQuery END -->
