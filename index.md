@@ -13,19 +13,15 @@ footer_content: Image by <a href="https://www.flickr.com/photos/66351465@N00/">C
 
 > For English version [see below](#english-version).
 
-No alvorecer da Era de Ouro do reino de Portugal e dos Algarves, no século XV, ...
+No alvorecer da Era de Ouro do reino de Portugal e dos Algarves, no século XV, ecos de conhecimentos primordiais começaram a despontar em terras lusitanas. O povo murmurava em igrejas e praças sobre esses eventos, que ninguém compreendia por completo, e apontava o dedo aos mistérios dos céus e da terra.
 
-Acho que em algum ponto aqui você precisa dizer que era um reino em que conviviam sob relativa paz, mulçumanos/ mouros, judeus e cristãos e que, nessa época, chegavam os primeiros carregamentos e "pretos  da Etiópia", negros do "Congo" e da "Angola" escravizados.
+O clero logo deu aval para iniciativas reais, com o apoio de eruditos, matemáticos e místicos, cristãos, judeus e muçulmanos, doutores de suas ciências. Nas florestas profundas, nos pântanos enevoados ou em antigos túneis romanos, livros riquíssimos em conhecimentos, há muito esquecidos, manifestaram-se. Lindos tomos, com escrita dourada, uns, prateada e negras, outros, continham fórmulas ancestrais que prometiam revelar mistérios do cosmos e da natureza, ao alcance dos audaciosos que quisessem folheá-los.
 
-...estranhas incursões sobrenaturais começaram a despontar nas profundezas da terra lusitana. O povo murmurava em igrejas e praças sobre esses eventos, que ninguém compreendia por completo.
+Acadêmicos de todas as ciências e filosofias, fascinados pelo mistério, desejavam estudar tais achados, sedentos por desvendar os enigmas antigos. Entretanto, ao serem estudados profundamente, sonhos e medos humanos se manifestaram em forma de guardiões e passaram a viver próximo às câmaras de estudo, bibliotecas, universidades e conventos.
 
-Os cristãos logo apontaram o dedo ao Satanás, evocando imagens de inferno e perdição. Já os judeus acreditavam se tratar de anjos caídos, castigados e exilados. Os muçulmanos falavam de espíritos malévolos, djinns perdidos entre mundos. E havia ainda quem dissesse que essas aparições pertenciam ao reino feérico, seres encantados que caminham entre mundos.
+Cavaleiros da Ordem de Nosso Senhor Jesus Cristo, Ordem de Avis e Hospitalários, freis e soldados, com seus corações cheios de bravura — e de ambição — dobraram esforços na busca de mais tomos e preparavam-se para enfrentar esses guardiões. Os mercadores, sempre atentos às oportunidades, viam nos segredos recém-conhecidos uma nova forma de saber, pronta para ser negociada. 
 
-Uma coisa, no entanto, todos sabiam: onde quer que essas incursões ocorressem, artefatos antigos e riquezas há muito perdidas ressurgem das sombras. Tesouros esquecidos continham conhecimento e poderes ancestrais, ao alcance dos audaciosos que ousavam se aproximar.
-
-Acadêmicos de todas as ciências e filosofias, fascinados pelo mistério, desejavam estudar esses achados, sedentos por conhecimento. Os religiosos, por sua vez, estavam divididos. Alguns temiam o toque profano dessas relíquias, suspeitando de suas origens impuras, enquanto outros viam nelas sinais de provação divina. Cavaleiros, com seus corações cheios de bravura — ou de ganância — armavam-se para enfrentar as criaturas que guardam tais riquezas, em busca de glória e fortuna. Os mercadores, sempre atentos às oportunidades, viam nessas relíquias um mercado novo e lucrativo, ansiosos para negociar com o misterioso e o desconhecido.
-
-E, acima de tudo, os ilustres governantes do trono português observavam com olhos ambiciosos. Se as incursões eram sinais de algo maior, algo ligado às terras que seus navegadores começavam a desbravar além-mar, então caberia a eles assegurar que cada tesouro e segredo emergido do solo luso fosse aproveitado para o engrandecimento do império. Afinal, os ventos dos Descobrimentos estavam soprando, e qualquer vantagem, terrena ou sobrenatural, seria crucial para o destino de Portugal.
+E, acima de tudo, os ilustres regentes do trono português observavam com cobiça. Se eram sinais de algo maior, algo que pudesse iluminar os mares e terras que seus navegadores começavam a desbravar além-mar, caberia a eles assegurar que cada segredo emergido do solo luso fosse aproveitado para o engrandecimento do reino. Afinal, os ventos dos Descobrimentos estavam soprando, e qualquer vantagem — terrena ou sobrenatural — poderia moldar o destino de Portugal e de suas colônias.
 
 #### Temas
 
@@ -38,15 +34,15 @@ E, acima de tudo, os ilustres governantes do trono português observavam com olh
 
 ---
 
-At the dawn of the Golden Age of the Portuguese Empire, in the early decades of the 15th century, strange supernatural incursions began to emerge from the depths of Lusitanian soil. The people murmured in churches and town squares about these events, which no one fully understood.
+At the dawn of the Golden Age of the Kingdom of Portugal and the Algarves, in the 15th century, whispers of primordial knowledge began to surface across Lusitanian lands. People murmured in churches and town squares about these events, which no one fully understood, and pointed to the mysteries of the heavens and the earth.
 
-The Christians were quick to point to Satan, evoking images of hell and damnation. The Jews, with their mystical traditions, believed these were fallen angels, punished and exiled. The Muslims, well-versed in ancient tales, spoke of malevolent spirits, djinn lost between worlds. And there were those who claimed that these apparitions belonged to the faerie realm, enchanted beings who walked the line between the human and the divine.
+The clergy soon gave royal initiatives their blessing, backed by scholars, mathematicians, and mystics—Christians, Jews, and Muslims alike, each master of their own sciences. In deep forests, mist-laden swamps, and ancient Roman tunnels, books rich in long-forgotten knowledge began to appear. Beautiful tomes, some inscribed in gold, others in silver or black ink, held ancient formulas that promised to reveal secrets of the cosmos and nature to any bold enough to turn their pages.
 
-One thing, however, was known to all: wherever these incursions took place, ancient artifacts and long-lost treasures resurfaced from the shadows. Forgotten riches, containing ancestral knowledge and powers, were within reach of the bold few who dared to approach.
+Scholars of every science and philosophy, captivated by the allure, longed to study these findings, driven by a thirst to unravel ancient enigmas. Yet, as they delved deeper, human dreams and fears took form, manifesting as guardians who soon came to linger around study chambers, libraries, universities, and convents.
 
-Scholars from every field of science and philosophy, fascinated by the mystery, longed to study these discoveries, thirsting for knowledge. The religious, for their part, were divided. Some feared the profane touch of these relics, suspecting their impure origins, while others saw in them signs of divine trial. Knights, their hearts filled with bravery — or perhaps greed — armed themselves to face the creatures guarding such riches, in search of glory and fortune. Merchants, ever alert to opportunity, saw in these relics a new and lucrative market, eager to trade with the mysterious and the unknown.
+Knights of the Order of Christ, the Order of Aviz, and the Hospitallers, along with friars and soldiers, hearts filled with both bravery—and ambition—redoubled their efforts to seek out more of these tomes, readying themselves to confront these guardians. Merchants, ever attuned to opportunity, saw in these newfound secrets a new form of knowledge ready to be traded.
 
-And, above all, the illustrious rulers of the Portuguese crown watched with ambitious eyes. If these incursions were signs of something greater, something tied to the lands their navigators were beginning to explore beyond the seas, then it fell upon them to ensure that every treasure and secret unearthed from Lusitanian soil was used for the empire’s advancement. After all, the winds of the Discoveries were blowing, and any advantage — earthly or supernatural — would be crucial for Portugal’s destiny.
+And, above all, the illustrious rulers of the Portuguese throne watched with covetous eyes. If these were signs of something greater, something that could illuminate the seas and lands their navigators were beginning to explore beyond the horizon, it was up to them to ensure every secret emerging from Portuguese soil would serve to elevate the kingdom. After all, the winds of the Discoveries were blowing, and any advantage—worldly or supernatural—could shape the fate of Portugal and its colonies.
 
 #### Themes
 
@@ -61,8 +57,8 @@ List works:
 <!-- QueryToSerialize: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "ouro/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
 <!-- SerializedQuery: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "ouro/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
 - Coimbra, 1418: [Terra Mater](https://terra-campaigns.github.io/ouro/campaigns/Anthology/terra-mater) (Anthology)
-- Evora, 1420: [Mascara](https://terra-campaigns.github.io/ouro/campaigns/Anthology/Mascara) (Anthology)
-- Evora, 1420: [RiblerimIP1](https://terra-campaigns.github.io/ouro/campaigns/Anthology/RiblerimIP1) (Anthology)
+- Evora, 1428: [Riblerim's Interesting Place - Welcominarium](https://terra-campaigns.github.io/ouro/campaigns/Capes/RiblerimIP1) (Anthology)
+- Evora, 1400?: [Mascara](https://terra-campaigns.github.io/ouro/campaigns/Anthology/Mascara) (Anthology)
 <!-- SerializedQuery END -->
 
 
@@ -74,6 +70,6 @@ Table does not:
 | region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Coimbra, 1418: [Terra Mater](https://terra-campaigns.github.io/ouro/campaigns/Anthology/terra-mater) (Anthology)                                  |
-| Evora, 1420: [Mascara](https://terra-campaigns.github.io/ouro/campaigns/Anthology/Mascara) (Anthology)                                            |
-| Evora, 1420: [RiblerimIP1](https://terra-campaigns.github.io/ouro/campaigns/Anthology/RiblerimIP1) (Anthology)                                    |
+| Evora, 1428: [Riblerim's Interesting Place - Welcominarium](https://terra-campaigns.github.io/ouro/campaigns/Capes/RiblerimIP1) (Anthology)       |
+| Evora, 1400?: [Mascara](https://terra-campaigns.github.io/ouro/campaigns/Anthology/Mascara) (Anthology)                                           |
 <!-- SerializedQuery END -->
