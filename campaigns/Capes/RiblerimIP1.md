@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Riblerim's Interesting Place - Welcominarium"
-parent: Anthology
+title: Welcominarium
+parent: Riblerim's Interesting Place
 nav_order: 20
 
 timestamp: 1428
