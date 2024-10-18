@@ -57,7 +57,7 @@ List works:
 <!-- QueryToSerialize: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "ouro/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
 <!-- SerializedQuery: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "ouro/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
 - Coimbra, 1418: [Terra Mater](https://terra-campaigns.github.io/ouro/campaigns/Anthology/terra-mater) (Anthology)
-- Evora, 1428: [Riblerim's Interesting Place - Welcominarium](https://terra-campaigns.github.io/ouro/campaigns/Capes/RiblerimIP1) (Anthology)
+- Evora, 1428: [Welcominarium](https://terra-campaigns.github.io/ouro/campaigns/Capes/RiblerimIP1) (Riblerim's Interesting Place)
 - Evora, 1400?: [Mascara](https://terra-campaigns.github.io/ouro/campaigns/Anthology/Mascara) (Anthology)
 <!-- SerializedQuery END -->
 
@@ -70,6 +70,6 @@ Table does not:
 | region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Coimbra, 1418: [Terra Mater](https://terra-campaigns.github.io/ouro/campaigns/Anthology/terra-mater) (Anthology)                                  |
-| Evora, 1428: [Riblerim's Interesting Place - Welcominarium](https://terra-campaigns.github.io/ouro/campaigns/Capes/RiblerimIP1) (Anthology)       |
+| Evora, 1428: [Welcominarium](https://terra-campaigns.github.io/ouro/campaigns/Capes/RiblerimIP1) (Riblerim's Interesting Place)                   |
 | Evora, 1400?: [Mascara](https://terra-campaigns.github.io/ouro/campaigns/Anthology/Mascara) (Anthology)                                           |
 <!-- SerializedQuery END -->
